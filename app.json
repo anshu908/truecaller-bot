@@ -1,0 +1,13 @@
+{
+    "name": "truecaller-bot",
+    "description": "A Telegram bot for number lookup.",
+    "repository": "https://github.com/anshu908/truecaller-bot",
+    "keywords": ["flask", "telegram", "bot", "api"],
+    "env": {
+      "BOT_TOKEN": {
+        "description": "7916798453:AAGsAqqePGz5pqXqAFmmSu40tXfhG-7GHc8",
+        "required": true
+      }
+    }
+  }
+  
