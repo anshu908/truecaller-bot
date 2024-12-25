@@ -2,7 +2,7 @@
 👾 Hey I can find information from phone number. Easy to use and simple. 
 
 ## 🚀 Demo Bot
-- [@TheTrueCallerBot](https://t.me/TheTrueCaller_Bot)
+- [@Ans_h4ck_bot](https://t.me/Ans_h4ck_bot)
 
 <h2>〽️ Deploy Me </h2> 
   
@@ -22,7 +22,7 @@
 your api key is in after "id" : .
   
 ### 💫 Credits
- - [Me](https://github.com/ImDenuwan) for Nothing 😅
+ - [Me](https://github.com/anshu908) for Nothing 😅
 
 # Note 
 this is not final bot and updates upcomming. you can create pull requests. bcz currently i don't have time to update. 
