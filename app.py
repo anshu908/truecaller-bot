@@ -64,7 +64,7 @@ sendtxt = """
 
 <b>»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»</b>
 
-<b><spoiler>🔥 Powered By @Taprobane_LK ©️| @TheTruecaller_Bot 🤖</spoiler></b>
+<b><spoiler>🔥 Powered By @Cyber_ansh ©️| @@Ans_h4ck_bot 🤖</spoiler></b>
 
 """
 
@@ -93,8 +93,8 @@ async def stsrt(_, m : Message):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Update Channel", url="https://t.me/Taprobane_Lk"),
-                        InlineKeyboardButton("💬 Support", url="https://t.me/TaprobaneChat")
+                        InlineKeyboardButton("🗯 Update Channel", url="https://t.me/ans_X_bot"),
+                        InlineKeyboardButton("💬 Support", url="https://t.me/ansh_hack")
                     ]
                 ]
             )
@@ -125,7 +125,7 @@ Features:- ⚕⚕
             keyboar = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/TheTruecaller_Bot?start=start")
+                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/Ans_h4ck_bot?start=start")
                     ]
                 ]
             )
@@ -153,7 +153,7 @@ async def main(_, m : Message):
 
 @bot.on_message(filters.command("help"))
 async def help(_, m : Message):
-    await m.reply_text("**⚠️Currently Available only for Sri Lankan Numbers.⚠️\nJust send target phone number to lookup informations.\n\n✅Available formats:-\n - +9471⚹⚹⚹⚹⚹⚹⚹\n - 071⚹⚹⚹⚹⚹⚹⚹\n - 71⚹⚹⚹⚹⚹⚹⚹\n\n🍂 Ex:- `+94715607964`\n\n💁‍♂️ If you Need help please send message to __@TaprobaneChat.__\n\n||🔥 Powered By @Taprobane_LK ©️ | @TheTruecaller_Bot 🤖||**")
+    await m.reply_text("**⚠️Currently Available only for Sri Lankan Numbers.⚠️\nJust send target phone number to lookup informations.\n\n✅Available formats:-\n - +9471⚹⚹⚹⚹⚹⚹⚹\n - 071⚹⚹⚹⚹⚹⚹⚹\n - 71⚹⚹⚹⚹⚹⚹⚹\n\n🍂 Ex:- `+94715607964`\n\n💁‍♂️ If you Need help please send message to __@TaprobaneChat.__\n\n||🔥 Powered By @ans_X_bot ©️ | @Ans_h4ck_bot 🤖||**")
 
 @bot.on_callback_query(filters.regex("chk"))
 async def chk(_, cb : CallbackQuery):
@@ -163,8 +163,8 @@ async def chk(_, cb : CallbackQuery):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Update Channel", url="https://t.me/Taprobane_Lk"),
-                        InlineKeyboardButton("💬 Support", url="https://t.me/TaprobaneChat")
+                        InlineKeyboardButton("🗯 Update Channel", url="https://t.me/ans_X_bot"),
+                        InlineKeyboardButton("💬 Support", url="https://t.me/ansh_hack")
                     ]
                 ]
             )
@@ -186,7 +186,7 @@ you can check any Sri Lankan 🇱🇰 mobile number informations from me.
 
 🎡 Other Countries will add soon.
 
-||🔥 Powered By @Taprobane_LK ©️ | @TheTruecaller_Bot 🤖||**""", reply_markup=keyboard) 
+||🔥 Powered By @Cyber_ansh ©️ | @Ans_h4ck_bot 🤖||**""", reply_markup=keyboard) 
               
         if c == "444":
                 print('lol')
